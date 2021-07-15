@@ -24,5 +24,8 @@ Microcontroller: ATmega328P
   - 2 breadboard;
   - conecting wires;
   - 1 Arduino UNO board with ATmega328p microcontroller.
- 
- ![Image](https://cdn.discordapp.com/attachments/757916940885819434/865294646455566366/unknown.png)
+
+![image](https://user-images.githubusercontent.com/78810496/125837550-17e13e7a-6244-4ecc-9000-5effa2cf126f.png)
+
+![image](https://user-images.githubusercontent.com/78810496/125837505-b053b307-fd4b-4e7d-b47b-886a4d265653.png)
+
