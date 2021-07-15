@@ -16,7 +16,7 @@ Microcontroller: ATmega328P
   - 1 DC buzzer;
   - 1 shift register CD74HC195;
   - 1 display LCD 16x02 with I2C module;
-  - 1 RTC DS3231 module with I2C;
+  - 1 RTC DS3231 module with I2C module;
   - 1 matrix keyboard 4x4;
   - 1 RFID module @125kHz RDM6300;
   - 2 RFID cards @125kHz;
