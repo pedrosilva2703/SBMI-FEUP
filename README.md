@@ -1,6 +1,6 @@
 # Home Alarm System
-Microcontroller: ATmega328P
-
+Microcontroller: ATmega328P  
+[Course Page](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=461232)  
 ### Group Members
  * César Silva    (up201809678@edu.fe.up.pt) 
  * Pedro Silva    (up201806526@edu.fe.up.pt)
